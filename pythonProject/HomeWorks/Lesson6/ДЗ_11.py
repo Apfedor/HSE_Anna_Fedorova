@@ -1,8 +1,8 @@
 import requests
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 manager = '263411857320'
-token = '4123saedfasedsadf4324234f223ddf23'
+token = '4123saedfasedfsadf4324234f223ddf23'
 
 
 class LegalAPI:
