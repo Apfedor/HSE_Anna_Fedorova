@@ -1,8 +1,16 @@
 import requests
-# from bs4 import BeautifulSoup
 
 manager = '263411857320'
 token = '4123saedfasedfsadf4324234f223ddf23'
+inn_test = '3662086277'
+endpoints: list = ["/efrsb/publisher_messages",
+                   "/efrsb/debtor_messages",
+                   "/efrsb/manager/all",
+                   "/efrsb/manager",
+                   "/efrsb/trader/all",
+                   "/efrsb/trader",
+                   "/efrsb/person",
+                   "/efrsb/organisation"]
 
 
 class LegalAPI:
@@ -11,8 +19,12 @@ class LegalAPI:
     def __init__(self, token):
         self.token = token
 
-    def efrsb_traders_all(self):
-        url = f"{self.BASE_URL}/{self.token}/efrsb/trader/all"
+    def get(self, endpoint, inn):
+        if endpoint.find('all') > 0:
+            url = f"{self.BASE_URL}/{self.token}/{endpoint}"
+        else:
+            url = f"{self.BASE_URL}/{self.token}/{endpoint}/{inn}"
+
         r = requests.get(url)
         r.raise_for_status()
         return r.json()
@@ -20,7 +32,7 @@ class LegalAPI:
 
 def main():
     api = LegalAPI(token)
-    traders = api.efrsb_traders_all()
+    traders = api.get(endpoints[4], inn_test)
     print('stop')
 
 

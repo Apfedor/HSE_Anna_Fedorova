@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ed8fcd2-ee67-4f24-955c-6968a5cfdefe" name="Changes" comment="" />
+    <list default="true" id="1ed8fcd2-ee67-4f24-955c-6968a5cfdefe" name="Changes" comment="hw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,40 +19,146 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Apfedor&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Apfedor/HSE_Anna_Fedorova.git&quot;,
+    &quot;accountId&quot;: &quot;7eaad2bd-e5d1-4c6b-9d88-90f006f98ea4&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2e8iL3LSA2SWbejL3UqnMMeWRCE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ДЗ_10.executor": "Run",
+    "Python.ДЗ_11.executor": "Debug",
+    "Python.ДЗ_2.executor": "Run",
     "Python.ДЗ_4.executor": "Run",
     "Python.ДЗ_5.1.executor": "Run",
     "Python.ДЗ_5.2.executor": "Run",
+    "Python.ДЗ_6.executor": "Run",
+    "Python.ДЗ_7.executor": "Run",
+    "Python.ДЗ_8.executor": "Run",
+    "Python.ДЗ_9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Алекс/Documents/GitHub/HSE_Anna_Fedorova/pythonProject/HomeWorks/Lesson2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/annalazareva/Documents/GitHub/HSE_Anna_Fedorova/pythonProject/HomeWorks/Lesson4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HomeWorks/Lesson4" />
       <recent name="C:\Users\Алекс\Documents\GitHub\HSE_Anna_Fedorova\pythonProject\HomeWorks\Lesson2" />
       <recent name="C:\Users\Алекс\Documents\GitHub\HSE_Anna_Fedorova\pythonProject\HomeWorks\Lesson3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HomeWorks" />
+      <recent name="$PROJECT_DIR$/HomeWorks/Lesson5" />
       <recent name="C:\Users\Алекс\Documents\GitHub\HSE_Anna_Fedorova\pythonProject\HomeWorks\Lesson3" />
       <recent name="C:\Users\Алекс\Documents\GitHub\HSE_Anna_Fedorova\pythonProject\HomeWorks" />
     </key>
   </component>
+  <component name="RunManager" selected="Python.ДЗ_11">
+    <configuration name="ДЗ_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorks/Lesson6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWorks/Lesson6/ДЗ_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ДЗ_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWorks/Lesson4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWorks/Lesson4/ДЗ_7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ДЗ_11" />
+        <item itemvalue="Python.ДЗ_7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
       </set>
     </attachedChunks>
   </component>
@@ -62,7 +170,86 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711292548909</updated>
+      <workItem from="1714046095052" duration="685000" />
+      <workItem from="1714046843967" duration="149000" />
+      <workItem from="1714047068606" duration="1000" />
+      <workItem from="1714047491821" duration="4294000" />
+      <workItem from="1714055067568" duration="7000" />
+      <workItem from="1714137121687" duration="4454000" />
+      <workItem from="1714141629479" duration="3000" />
+      <workItem from="1714141637221" duration="13000" />
+      <workItem from="1714371707752" duration="6351000" />
+      <workItem from="1714378539920" duration="15053000" />
+      <workItem from="1714654644428" duration="5543000" />
+      <workItem from="1716011377009" duration="8428000" />
+      <workItem from="1716092982374" duration="9545000" />
     </task>
+    <task id="LOCAL-00001" summary="hw">
+      <option name="closed" value="true" />
+      <created>1716294528784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716294528784</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HomeWorks/Lesson6/ДЗ_11.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_5_2_py$_6.coverage" NAME="ДЗ_6 Coverage Results" MODIFIED="1714401525453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson4" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_9.coverage" NAME="ДЗ_9 Coverage Results" MODIFIED="1716093029402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson5" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_10.coverage" NAME="ДЗ_10 Coverage Results" MODIFIED="1716105435794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson5" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_2.coverage" NAME="ДЗ_2 Coverage Results" MODIFIED="1714140239953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson1" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_8.coverage" NAME="ДЗ_8 Coverage Results" MODIFIED="1716020079192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson4" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_7.coverage" NAME="ДЗ_7 Coverage Results" MODIFIED="1716092986775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson4" />
+    <SUITE FILE_PATH="coverage/_5_2_py$_11.coverage" NAME="ДЗ_11 Coverage Results" MODIFIED="1716294452879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HomeWorks/Lesson6" />
   </component>
 </project>
